@@ -1,6 +1,6 @@
 ### About
 
-I started in the web side eg. LAMP back in 2013. Now have transitioned mostly to JavaScript eg. ReactJS and Electron/React Native. I use Python sometimes(like working with Raspberry Pi). Currently I work mostly on the web side. For personal projects I'll get as low as working with ADC's to interface with analog sensors but I barely touch that stuff eg. I'm still using Python/some library.
+I started in the web side eg. LAMP back in 2013. Now have transitioned mostly to JavaScript eg. ReactJS/Node/Express and Electron/React Native. I still mostly prefer MySQL/MariaDB over Postgres just for ease of use reasons. I use Python sometimes(like working with Raspberry Pi). Currently I work mostly on the web side. For personal projects I'll get as low as working with ADC's to interface with analog sensors but I barely touch that stuff eg. I'm still using Python/some library.
 
 I worked as a PSD-to-template guy for a little over a year before doing my software engineer role currently. So I can build interfaces from designs. I can build accompanying backends as well. I'm trying to find my own projects to turn into SaaS products but I have not found anything yet.
 
