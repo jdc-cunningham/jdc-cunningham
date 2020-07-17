@@ -15,7 +15,7 @@ This repo is updated by a script I have on a Raspberry Pi, can see the repo [her
 **5V 100mA Solar Cell**
 - Friday 07/17/2020 13:50 PM
 - Computed voltage: 0.32 V current: 10 mA
-- Power produced: 3.20 W
+- Power produced: 0.00 W
 - [Project link](https://github.com/jdc-cunningham/raspisolarplotter)
 
 **Small random DC motor attached to stick** - data gathered every minute
