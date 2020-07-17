@@ -8,10 +8,4 @@ I worked as a PSD-to-template guy for a little over a year before doing my softw
 
 Currently work with ReactJS with heavy testing eg. Jest/WDIO(Mocha/Selenium visual regression testing).
 
-### Active sensors
-
-This will be a section I update with stats from sensors I have collecting data. My anemometer has I'd say at least 4-5 million records now as it collects data every second(sends it in 1 minute batches). Pretty useless overall but cool project.
-
-I have not personally setup GitHub "actions" before, I think it is possible.
-
-Test update line
+### Sensor data
