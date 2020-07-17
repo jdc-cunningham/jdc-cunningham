@@ -17,9 +17,3 @@ This repo is updated by a script I have on a Raspberry Pi, can see the repo [her
 - Computed voltage: 0.0 V current: 0.00
 - Power produced: 0.00 W
 - [Project link](https://github.com/jdc-cunningham/raspisolarplotter)
-
-**Small random DC motor attached to stick** - data gathered every minute
-- Fetched today Thursday 07-16-2020 11:04 PM
-- Produced: tis mW
-- undefined
-- [Project link](https://github.com/jdc-cunningham/turbine-raspi)
