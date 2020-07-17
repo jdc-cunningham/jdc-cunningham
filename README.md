@@ -19,7 +19,7 @@ This repo is updated by a script I have on a Raspberry Pi, can see the repo [her
 - [Project link](https://github.com/jdc-cunningham/raspisolarplotter)
 
 **Small random DC motor attached to stick** - data gathered every minute
-- Fetched today Thursday 07-16-2020 11:03 PM
+- Fetched today Thursday 07-16-2020 11:04 PM
 - Produced: tis mW
 - undefined
 - [Project link](https://github.com/jdc-cunningham/turbine-raspi)
