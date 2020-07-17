@@ -12,14 +12,10 @@ Currently work with ReactJS with heavy testing eg. Jest/WDIO(Mocha/Selenium visu
 This repo is updated by a script I have on a Raspberry Pi, can see the repo [here](https://github.com/jdc-cunningham/raspi-git-repo-updater) uses NodeJS. It's an MVP.
 
 ### Sensor data
-**5V 100mA Solar Cell**
-- Friday 07/17/2020 13:20 PM
-- Computed voltage: 2.5 V current: 0.10
-- Power produced: 0.25 W
-- [Project link](https://github.com/jdc-cunningham/raspisolarplotter)
+
 
 **Small random DC motor attached to stick** - data gathered every minute
-- Fetched today Friday 07-17-2020 01:23 PM
-- Produced: 7.986 mW
+- Fetched today Friday 07-17-2020 01:24 PM
+- Produced: 8.031 mW
 - Highest: 0.049V 0.0016A
 - [Project link](https://github.com/jdc-cunningham/turbine-raspi)
