@@ -9,3 +9,14 @@ I worked as a PSD-to-template guy for a little over a year before doing my softw
 Currently work with ReactJS with heavy testing eg. Jest/WDIO(Mocha/Selenium visual regression testing).
 
 ### Sensor data
+**5V 100mA Solar Cell**
+- Thursday 07/16/2020 22:30 PM
+- Computed voltage: 0.0 V current: 0.00
+- Power produced: 0.00 W
+[Project link](https://github.com/jdc-cunningham/raspisolarplotter)
+
+**Small random DC motor attached to stick** - data gathered every minute
+- Fetched today Thursday 07-16-2020 10:36 PM
+- Produced: 0.779 mW
+- Highest: 0.029V 0.0009A
+[Project link](https://github.com/jdc-cunningham/turbine-raspi)
