@@ -9,7 +9,7 @@ I worked as a PSD-to-HTML guy for a little over a year before doing my software 
 Currently work with ReactJS with heavy testing eg. Jest/WDIO(Mocha/Selenium visual regression testing).
 
 ### Side note
-This repo is updated by a script I have on a Raspberry Pi, can see the repo [here](https://github.com/jdc-cunningham/raspi-git-repo-updater) uses NodeJS. It's an MVP. Also if this stops updating might mean I'm homeless.
+This repo is updated by a script I have on a Raspberry Pi, can see the repo [here](https://github.com/jdc-cunningham/raspi-git-repo-updater) uses NodeJS. It's an MVP. Also if this stops updating might mean I'm homeless. Edit: I'm going to reduce this to 1 commit a day to reduce the "commit count pollution".
 
 ### Sensor data
 **5V 100mA Solar Cell**
