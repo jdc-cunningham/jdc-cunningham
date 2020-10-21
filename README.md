@@ -13,7 +13,7 @@ This repo is updated by a script I have on a Raspberry Pi, can see the repo [her
 
 ### Sensor data
 **5V 100mA Solar Cell**
-- Tuesday 10/20/2020 11:50 AM
-- Computed voltage: 0.06 V current: 0 mA
+- Wednesday 10/21/2020 11:50 AM
+- Computed voltage: 0.04 V current: 0 mA
 - Power produced: 0.00 W
 - [Project link](https://github.com/jdc-cunningham/raspisolarplotter)
