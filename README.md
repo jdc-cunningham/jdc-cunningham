@@ -19,7 +19,7 @@ This repo is updated by a script I have on a Raspberry Pi, can see the repo [her
 - [Project link](https://github.com/jdc-cunningham/raspisolarplotter)
 
 **Small random DC motor attached to stick** - data gathered every minute
-- Fetched today Thursday 12-10-2020 12:00 PM
-- Produced: 0.004 mW
-- Highest: 0.005V 0.0002A
+- Fetched today Friday 12-11-2020 12:00 PM
+- Produced: 0.217 mW
+- Highest: 0.015V 0.0005A
 - [Project link](https://github.com/jdc-cunningham/turbine-raspi)
