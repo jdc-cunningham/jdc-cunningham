@@ -13,13 +13,13 @@ This repo is updated by a script I have on a Raspberry Pi, can see the repo [her
 
 ### Sensor data
 **5V 100mA Solar Cell**
-- Monday 01/25/2021 11:50 AM
-- Computed voltage: 0.05 V current: 0 mA
-- Power produced: 0.00 W
+- Tuesday 01/26/2021 11:50 AM
+- Computed voltage: 0.4 V current: 20 mA
+- Power produced: 0.01 W
 - [Project link](https://github.com/jdc-cunningham/raspisolarplotter)
 
 **Small random DC motor attached to stick** - data gathered every minute
-- Fetched today Monday 01-25-2021 12:00 PM
-- Produced: 4.962 mW
-- Highest: 0.029V 0.0009A
+- Fetched today Tuesday 01-26-2021 12:00 PM
+- Produced: 13.142 mW
+- Highest: 0.054V 0.0017A
 - [Project link](https://github.com/jdc-cunningham/turbine-raspi)
