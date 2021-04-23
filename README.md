@@ -4,7 +4,7 @@ I'm currently a software engineer in the medical industry. Primarily I work on b
 #### Automated updates
 This README is updated by a script I have running on a Raspberry Pi, can see the repo [here](https://github.com/jdc-cunningham/raspi-git-repo-updater).
 
-### Sensor data
+#### Sensor data
 **5V 100mA Solar Cell**
 - Sunday 04/11/2021 02:40 AM
 - Computed voltage: 0.03 V current: 0 mA
