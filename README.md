@@ -6,7 +6,7 @@ This README is updated by a script I have running on a Raspberry Pi, can see the
 
 #### Sensor data
 **5V 100mA Solar Cell**
-- Monday 09/20/2021 11:50 AM
-- Computed voltage: 0.61 V current: 20 mA
-- Power produced: 0.01 W
+- Tuesday 09/21/2021 11:50 AM
+- Computed voltage: 0.71 V current: 30 mA
+- Power produced: 0.02 W
 - [Project link](https://github.com/jdc-cunningham/raspisolarplotter)
