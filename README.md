@@ -12,7 +12,7 @@ This README is updated by a script I have running on a Raspberry Pi, can see the
 - [Project link](https://github.com/jdc-cunningham/raspisolarplotter)
 
 **Small random DC motor attached to stick** - data gathered every minute
-- Fetched today Tuesday 01-18-2022 12:00 PM
-- Produced: 3.873 mW
-- Highest: 0.034V 0.0011A
+- Fetched today Wednesday 01-19-2022 12:00 PM
+- Produced: 3.682 mW
+- Highest: 0.029V 0.0009A
 - [Project link](https://github.com/jdc-cunningham/turbine-raspi)
