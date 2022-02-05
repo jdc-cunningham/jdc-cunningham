@@ -6,13 +6,13 @@ This README is updated by a script I have running on a Raspberry Pi, can see the
 
 #### Sensor data
 **5V 100mA Solar Cell**
-- Friday 02/04/2022 11:50 AM
-- Computed voltage: 0.73 V current: 30 mA
-- Power produced: 0.02 W
+- Saturday 02/05/2022 11:50 AM
+- Computed voltage: 0.44 V current: 20 mA
+- Power produced: 0.01 W
 - [Project link](https://github.com/jdc-cunningham/raspisolarplotter)
 
 **Small random DC motor attached to stick** - data gathered every minute
-- Fetched today Friday 02-04-2022 12:00 PM
-- Produced: 1.585 mW
-- Highest: 0.024V 0.0008A
+- Fetched today Saturday 02-05-2022 12:00 PM
+- Produced: 1.568 mW
+- Highest: 0.034V 0.0011A
 - [Project link](https://github.com/jdc-cunningham/turbine-raspi)
