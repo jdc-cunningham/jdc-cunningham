@@ -1,5 +1,5 @@
 ### About
-I'm a software developer. Will update this with more current info. Pi will probably wipe this.
+CTO of Inkit Live a video eSign platform.
 
 #### Automated updates
 This README is updated by a script I have running on a Raspberry Pi, can see the repo [here](https://github.com/jdc-cunningham/raspi-git-repo-updater).
