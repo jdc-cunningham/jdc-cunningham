@@ -1,5 +1,5 @@
 ### About
-Platform software engineer and general technology enthusiast
+Software engineer and general technology enthusiast
 
 #### Automated updates
 This README is updated by a script I have running on a Raspberry Pi, can see the repo [here](https://github.com/jdc-cunningham/raspi-git-repo-updater).
