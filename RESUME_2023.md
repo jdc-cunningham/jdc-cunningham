@@ -2,9 +2,11 @@
 
 **Software Engineer III** - Go Local Interactive - Overland Park, KS Jul 2023 - Nov 2023
 
-● Developed and maintained sites using WordPress/VueJS in storage and pest industry
-● Created different testing tools with NodeJS and ReactJS to improve code quality
-● Attempted to improve team productivity and performance by enforcing code reviews, documentation and giving tech demos eg. how to do a code review
+* Developed and maintained sites using WordPress/VueJS in storage and pest industry
+
+* Created different testing tools with NodeJS and ReactJS to improve code quality
+
+* Attempted to improve team productivity and performance by enforcing code reviews, documentation and giving tech demos eg. how to do a code review
 
 **Software Engineer** - Storable - remote Jun 2022 - Mar 2023
 ● Built out new proof of insurance submission portal in fullstack JS to reduce fraud
