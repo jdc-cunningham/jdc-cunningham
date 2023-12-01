@@ -43,11 +43,17 @@ MPages, E2E testing via visual regression
 * Troubleshoot, maintain and expand older websites including Laravel and VueJS
 
 **Main skills**
+
 Front-end PSD to HTML, CSS3, JavaScript, ReactJS
+
 Backend Linux server, Node/Express, PHP, Python, Postgres, MySQL, AWS, Git
+
 Testing Selenium, Jasmine/Jest, RTL/Enzyme, WDIO
+
 Minor Electron/PWA/ReactNative or Tauri, C++ or Python with RaspberryPi/Arduino.
 
 **Education**
+
 University at Buffalo 2013-2014 Intended Computer Science
+
 SUNY Fredonia 2010-2012 Co-op Physics and Engineering
