@@ -8,7 +8,7 @@ This README is updated by a script I have running on a Raspberry Pi, can see the
 
 
 **Small random DC motor attached to stick** - data gathered every minute
-- Fetched today Thursday 04-23-2026 12:00 PM
-- Produced: 318.641 mW
-- Highest: 0.103V 0.0033A
+- Fetched today Friday 04-24-2026 12:00 PM
+- Produced: 801.716 mW
+- Highest: 0.059V 0.0019A
 - [Project link](https://github.com/jdc-cunningham/turbine-raspi)
